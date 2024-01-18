@@ -2,5 +2,15 @@ body {
     font-family: Arial, sans-serif;
     margin: 20px;
     padding: 20px;
-    background-color: pink;
+    background-color: rgb(46, 32, 34);
 } 
+h1, h2, h3 {
+    color: rgb(135, 135, 152);
+    font-family: 'PT Sans', sans-serif;
+}
+
+
+p {
+    color: rgb(157, 165, 157);
+    line-height: 1.5;
+}
